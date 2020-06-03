@@ -1,0 +1,16 @@
+{
+  "subjectCode": "MAE101",
+  "quiz": {
+    "question": "da hoc xong Tien chua ?",
+    "answer": [
+      {
+        "answer": "chua",
+        "correct": 0
+      },
+      {
+        "answer": "roi",
+        "correct": 1
+      }
+    ]
+  }
+}
